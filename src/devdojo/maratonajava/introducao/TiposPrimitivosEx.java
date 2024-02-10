@@ -16,7 +16,7 @@ public class TiposPrimitivosEx {
         String data = "01/02/2024";
 
         System.out.println("Eu " + nome + ", morando no endereço " +
-                endereco + "confirmo que recebi o salário" + salario +
+                endereco + "confirmo que recebi o salário " + salario +
                 ", nada data " + data);
     }
 
