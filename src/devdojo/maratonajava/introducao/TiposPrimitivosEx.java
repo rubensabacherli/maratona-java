@@ -13,7 +13,7 @@ public class TiposPrimitivosEx {
         String  nome = "Rubens";
         String endereco = "Rua Estado de Pernambuco, 489";
         double salario = 2400D;
-        String data = "01/02/2024";
+        String data = "01/02/2023";
 
         System.out.println("Eu " + nome + ", morando no endereço " +
                 endereco + "confirmo que recebi o salário" + salario +
